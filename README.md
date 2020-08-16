@@ -1,3 +1,6 @@
+# GIF EXPERT APP
+Una pequeña aplicación hecha con React con Hooks para buscar y mostrar Gifs animados 😎
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
